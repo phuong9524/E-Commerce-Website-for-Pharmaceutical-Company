@@ -1,0 +1,37 @@
+Need improvement	1
+I like this product	0
+I dislike this product	2
+This product is good	0
+I love it	0
+I really love it	0
+Love it	0
+Like it	0
+Helpful product	0
+Good product	0
+Bad product	2
+Not good	2
+Not work product	2
+I love this product	0
+This product is good	0
+Very good product	0
+This product is bad	2
+I dont like it	2
+I hate it	2
+Normal	1
+It's usable	1
+Acceptable	1
+Not good or bad	1
+Outdate product	2
+Horrible	2
+Cool	0
+never buy it again	2
+Dont buy this	2
+Recommended product	0
+Terrible	2
+Trash	2
+Good product. Buy it again	0
+Very good product. I will buy it again	0
+I love this product and I will buy it again	0
+Will buy this product again	0
+This product is terrible	2
+It's a good product but the price is too high	1

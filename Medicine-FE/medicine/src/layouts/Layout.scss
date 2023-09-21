@@ -1,0 +1,41 @@
+// Admin
+
+// User
+.user {
+    display: flex;
+
+    .app-bar {
+        fill: #17B554;
+        box-shadow: none;
+        color: #17B554;
+        -webkit-transition: background-color 200ms linear;
+        -ms-transition: background-color 200ms linear;
+        transition: background-color 200ms linear;
+
+        .tool-bar {
+            display: flex;
+            justify-content: space-between;
+
+            .icons {
+                display: flex;
+            }
+
+            .title {
+                .typo {
+                    @media only screen and (min-width: 600px) {
+                        margin-right: -5rem;
+                    }
+                }
+            }
+        }
+
+        .menu-bar {
+            display: flex;
+            justify-content: center;
+            margin-top: 6px;
+            @media screen and (max-width: 890px) {
+                flex-direction: column;
+            }
+        }
+    }
+}
